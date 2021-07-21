@@ -1,7 +1,7 @@
 - 👋 Hi, I’m chandan 
 - 👀 I’m interested in web development and machine learning 
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m have skill on Java,Javascript,React,Spring Boot
+- 💞️ Currently I'm pursuing Bachelor of Engineering on Computer Science and Engineering in Jadavpur University
 - 📫 Mail me chandan.jana1998@gmail.com
 
 <!---
